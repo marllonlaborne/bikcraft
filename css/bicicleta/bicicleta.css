@@ -20,6 +20,7 @@
 .bicicleta-imagens img {
   flex: 1;
   min-width: 200px;
+  border-radius: 4px;
 }
 
 .bicicleta-imagens img:first-child {
